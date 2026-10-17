@@ -1,0 +1,6 @@
+{
+  "name": "S21 States Gallery — SANKET Lumen Glass",
+  "description": "Interactive component states gallery, optical elevation engine, and architectural interface system built on the SANKET Lumen Glass design specification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
